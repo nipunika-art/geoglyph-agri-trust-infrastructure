@@ -1,5 +1,5 @@
 #  6-Month Roadap and My Role
-## Agriculture Trust Infrastructure Project
+## Agriculture Trust Infrastructure Project in Côte d’Ivoire
 ## 1. My Role-Data Structuring & System Design
 I am responsible for transforming the project into an implementable system by defining:
 #### Data structure (entities and relationships)
